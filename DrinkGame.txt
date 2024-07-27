@@ -1,0 +1,27 @@
+{
+    "DeckName": Ultimate Drink Deck",
+
+    "DeckBy": Hope",
+
+    "Dares": [
+        "Remove piece of clothe or drink (don't have anymore? drink)",
+        "Talk like a cat for 2 round, if you fail, drink",
+        "Pick a player to drink for you",
+        "Don't drink for a round",
+        "Jailcard, you can skip a dare when u want",
+        "Be someone's slave for a round (do everything they ask)",
+        "Stop talking for a round (if you fail you drink)",
+        "Take 1 shot",
+	"Take 2 shot",
+	"Take 3 shot",
+	"Take 4 shot",
+	"Close your eyes for 2 round, (if you fail you drink, be honest),
+	"Spin around for 5 seconds, if you fall, you drink",
+	"Moan at the end of every sentence for 2 rounds (if you forget, you drink)",
+	"Stay on 1 leg for 2 rounds, if you fall, you drink",
+	"Skip drink for 1 round",
+	"Pick a play to drink 2 times for you",
+	"Lick an random object around you and drink",
+	"Do 5 squats and drink (you fall, drink 1 more time)"
+    ]
+}
